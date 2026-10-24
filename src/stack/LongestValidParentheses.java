@@ -26,7 +26,6 @@ public class LongestValidParentheses {
             }
         }
 
-
         return maxLength;
     }
 
